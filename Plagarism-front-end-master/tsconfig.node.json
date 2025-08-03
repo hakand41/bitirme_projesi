@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ESNext",
+    "module": "ESNext",
+    "lib": ["ES2020", "DOM"],
+    "moduleResolution": "node",
+    "types": ["node"], // Node.js tür tanımlamaları için
+    "skipLibCheck": true
+  },
+  "include": ["vite.config.ts"]
+}

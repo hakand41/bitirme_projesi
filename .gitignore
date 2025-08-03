@@ -1,0 +1,33 @@
+# Python / Flask
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+env/
+venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.idea/
+.vscode/
+
+# Node / Vue
+node_modules/
+dist/
+.DS_Store
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ASP.NET Core
+**/bin/
+**/obj/
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Genel
+secrets.json
+appsettings.Development.json
