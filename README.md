@@ -95,7 +95,7 @@ Projenin arayüzüne ait detaylı görseller proje raporunda mevcuttur.
 
 | Öğretmen Paneli                                       | Rapor Görünümü                                     |
 | :---------------------------------------------------- | :------------------------------------------------- |
-| ![Öğretmen Paneli](https://i.imgur.com/kXlqD0H.png)    | ![Rapor Görünümü](https://i.imgur.com/O6LlL7x.png) |
+| ![Öğretmen Paneli](https://i.imgur.com/kXlqD0H.png)    | ![Rapor Görünümü](https://i.imgur.com/O6LlL7x.png)](https://imgur.com/a/hjiAIJd) |
 
 | İstatistikler                                         | Öğrenci Paneli                                     |
 | :---------------------------------------------------- | :------------------------------------------------- |
