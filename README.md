@@ -105,4 +105,3 @@ Projenin arayüzüne ait detaylı görseller proje raporunda mevcuttur.
 
 Bu proje, MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için `LICENSE` dosyasına bakın.
 
-*(Not: Projenizde bir lisans dosyası oluşturmanız tavsiye edilir.)*
