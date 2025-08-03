@@ -99,7 +99,7 @@ Projenin arayüzüne ait detaylı görseller proje raporunda mevcuttur.
 
 | İstatistikler                                         | Öğrenci Paneli                                     |
 | :---------------------------------------------------- | :------------------------------------------------- |
-| ![İstatistikler](https://i.imgur.com/T0bO9aI.png)      | ![Öğrenci Paneli](https://i.imgur.com/yVqXk1q.png) |
+| ![İstatistikler]([https://i.imgur.com/T0bO9aI.png](https://imgur.com/a/yVtkcZP))      | ![Öğrenci Paneli](https://i.imgur.com/yVqXk1q.png) |
 
 ## 📜 Lisans
 
